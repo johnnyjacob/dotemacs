@@ -26,7 +26,7 @@
  '(custom-safe-themes
    '("0598c6a29e13e7112cfbc2f523e31927ab7dce56ebb2016b567e1eff6dc1fd4f" default))
  '(package-selected-packages
-   '(which-key solarized-theme exec-path-from-shell rust-playground company yasnippet flycheck lsp-ui lsp-mode rustic use-package)))
+   '(protobuf-mode which-key solarized-theme exec-path-from-shell rust-playground company yasnippet flycheck lsp-ui lsp-mode rustic use-package)))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
